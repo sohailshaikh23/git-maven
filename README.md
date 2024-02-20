@@ -1,4 +1,4 @@
-# Prerequisites
+# Prerequisites for this java project 20-2-24
 ###
 - JDK 11
 - Maven 3 or later
